@@ -1,0 +1,99 @@
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\Otel.exe.config
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\Otel.exe
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\Otel.pdb
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\Otel.xml
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.vbprojAssemblyReference.cache
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.Form1.resources
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.Resources.resources
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.vbproj.GenerateResource.cache
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.exe
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.xml
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.pdb
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.kayit.resources
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.anamenü.resources
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.checkin.resources
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.odaekle.resources
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.odaguncelle.resources
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.checkout.resources
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.konaklama.resources
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.odabilgi.resources
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\db\Otel.db
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\EntityFramework.dll
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\System.Data.SQLite.dll
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\EntityFramework.xml
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90507\source\repos\Otel\Otel\bin\Debug\System.Data.SQLite.xml
+C:\Users\90507\source\repos\Otel\Otel\obj\Debug\Otel.vbproj.CopyComplete
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\db\Otel.db
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Otel.exe.config
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Otel.exe
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Otel.pdb
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Otel.xml
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\EntityFramework.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\System.Data.SQLite.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\EntityFramework.xml
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\System.Data.SQLite.xml
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.vbprojAssemblyReference.cache
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.anamenü.resources
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.checkin.resources
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.checkout.resources
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.Form1.resources
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.kayit.resources
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.konaklama.resources
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.Resources.resources
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.odabilgi.resources
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.odaekle.resources
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.odaguncelle.resources
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.vbproj.GenerateResource.cache
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.vbproj.CopyComplete
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.exe
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.xml
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\obj\Debug\Otel.pdb
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\EnvDTE.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\stdole.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\Microsoft.MSXML.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\itextsharp.dll
+C:\Users\90507\Desktop\Eren Ödev\Görsel Programlama\Otel\Otel\bin\Debug\itextsharp.xml
